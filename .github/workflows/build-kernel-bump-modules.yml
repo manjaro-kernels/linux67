@@ -1,4 +1,4 @@
-name: Build Kernel
+name: Build Kernel and Bump Modules
 
 on:
   workflow_dispatch:
